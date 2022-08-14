@@ -1,5 +1,3 @@
-package sale;
-
 public class SalesManager {
     protected int[] sales;
 
